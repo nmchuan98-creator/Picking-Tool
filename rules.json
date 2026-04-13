@@ -1,0 +1,579 @@
+[
+  {
+    "sku": "Bundle of 3 (按variation拆)",
+    "keywords": [
+      "Bundle of 3: Yongle Dumplings"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "【Bundle】XLB + Truffle XLB",
+    "keywords": [
+      "BUNDLE Yongle T. Xiao Long Bao"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "1kg x3 套餐 (按variation拆)",
+    "keywords": [
+      "1kg x3 packs"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "4x1kg BUNDLE",
+    "keywords": [
+      "4 x1kg BUNDLE"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "白菜猪肉水饺【1KG】",
+    "keywords": [
+      "Cabbage & Pork Dumpling"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "韭菜猪肉水饺【1KG】",
+    "keywords": [
+      "Chives & Pork Dumpling",
+      "Chive & Pork Dumpling"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "芹菜猪肉水饺【1KG】",
+    "keywords": [
+      "Celery & Pork Dumpling",
+      "Frozen Celery & Pork"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "香菇猪肉水饺【1KG】",
+    "keywords": [
+      "Mushroom & Pork Dumpling"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "玉米猪肉水饺【1KG】",
+    "keywords": [
+      "Sweet Corn & Pork Dumpling"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "酸菜猪肉水饺【1KG】",
+    "keywords": [
+      "Preserved Vegetable & Pork"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "洋葱牛肉水饺【1KG】",
+    "keywords": [
+      "Onion & Beef Dumpling"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "虾仁黄瓜水饺【1KG】",
+    "keywords": [
+      "Prawn & Cucumber Dumpling"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "茴香猪肉水饺【1KG】",
+    "keywords": [
+      "Fennel Leaves & Pork"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "鸡肉香菇水饺【1KG】",
+    "keywords": [
+      "Chicken & Mushroom Dumpling"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "鲅鱼水饺【1KG】",
+    "keywords": [
+      "Batang Fish Dumpling"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "墨鱼水饺【1KG】",
+    "keywords": [
+      "Cuttlefish Dumpling",
+      "墨鱼水饺"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "芹菜羊肉饺子【500G】",
+    "keywords": [
+      "Celery & Mutton"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "白菜猪肉水饺【425G】",
+    "keywords": [
+      "Cabbage & Pork Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "韭菜猪肉水饺【425G】",
+    "keywords": [
+      "Chive & Pork Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "芹菜猪肉水饺【425G】",
+    "keywords": [
+      "Celery & Pork Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "香菇猪肉水饺【425G】",
+    "keywords": [
+      "Mushroom & Pork Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "玉米猪肉水饺【425G】",
+    "keywords": [
+      "Sweet Corn & Pork Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "酸菜猪肉水饺【425G】",
+    "keywords": [
+      "Preserved Vegetable & Pork 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "洋葱牛肉水饺【425G】",
+    "keywords": [
+      "Onion & Beef Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "虾仁黄瓜水饺【425G】",
+    "keywords": [
+      "Prawn & Cucumber Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "鲅鱼水饺【425G】",
+    "keywords": [
+      "Batang Fish Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "墨鱼水饺【425G】",
+    "keywords": [
+      "Cuttlefish Dumpling 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "传统灌汤小笼包【1KG】",
+    "keywords": [
+      "Traditional Soup Xiao Long Bao",
+      "灌汤小笼包 1kg"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "传统灌汤小笼包【425G】",
+    "keywords": [
+      "Traditional Soup Xiao Long Bao 425",
+      "灌汤小笼包 425"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "黑松露小笼包【425G】",
+    "keywords": [
+      "Truffle Xiao Long Bao"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "麻坡乌达【180G】",
+    "keywords": [
+      "Muar Fish Otak"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "肥牛卷【300G】",
+    "keywords": [
+      "Beef Short Plate Rolled"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "羊肩肉卷【300G】",
+    "keywords": [
+      "Lamb Shoulder Rolled"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "巴西三层肉卷【400G】",
+    "keywords": [
+      "Brasil Pork Belly Rolled"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "大鱼饼【1KG】",
+    "keywords": [
+      "Big Fish Cake",
+      "大鱼饼"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "无骨鸭爪【500G】",
+    "keywords": [
+      "Boneless Duck Feet",
+      "无骨鸭爪"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "墨鱼丸【500G】",
+    "keywords": [
+      "Cuttlefish Ball",
+      "墨鱼丸"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "龙虾尾【500G】",
+    "keywords": [
+      "Crawfish Tail",
+      "龙虾尾"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "鳗鱼 Unagi",
+    "keywords": [
+      "Unagi",
+      "鳗鱼"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "鱿鱼花【1KG】",
+    "keywords": [
+      "Squid Flower",
+      "鱿鱼花"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "半壳扇贝【1KG】",
+    "keywords": [
+      "Half Shell Scallops",
+      "半壳扇贝"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "黄花鱼【500G】",
+    "keywords": [
+      "Yellow Croaker",
+      "黄花鱼"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "多春鱼【150G】",
+    "keywords": [
+      "Shishamo",
+      "多春鱼"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "红鸡鱼头【850G】",
+    "keywords": [
+      "RED SNAPPER HEAD",
+      "红鸡鱼头"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "鱼腐【500G】",
+    "keywords": [
+      "Fish Curd",
+      "鱼腐"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "芝士海鲜豆腐【500G】",
+    "keywords": [
+      "Figo Cheese Seafood",
+      "海鲜豆腐"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "猪肉丸【500G】",
+    "keywords": [
+      "Pork Meat Ball"
+    ],
+    "factor": 2
+  },
+  {
+    "sku": "猪肉碎【300G】",
+    "keywords": [
+      "Minced Pork"
+    ],
+    "factor": 3
+  },
+  {
+    "sku": "猪肉丝【300G】",
+    "keywords": [
+      "Frozen Pork Shredded"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "无皮三层肉【1KG】",
+    "keywords": [
+      "Brasil Pork Belly Skinless",
+      "无皮三层肉"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "排骨切【1KG】",
+    "keywords": [
+      "Brasil Pork Spare Rib",
+      "巴西冷冻排骨"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "巴西牛里脊【900G】",
+    "keywords": [
+      "Brasil Beef Tenderloin"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "三层肉粒【1KG】",
+    "keywords": [
+      "Pork Belly Cube",
+      "三层肉1公斤"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "猪里脊【1KG】",
+    "keywords": [
+      "Pork Loin Cut",
+      "猪里脊"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "甜辣三层肉片【300G】",
+    "keywords": [
+      "Sweet & Spicy Pork Belly"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "无骨鸡爪【500G】",
+    "keywords": [
+      "Boneless Chicken Feet",
+      "无骨鸡爪"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "鸭舌【300G】",
+    "keywords": [
+      "Duck Tongue",
+      "鸭舌"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "烟熏鸭胸【220G】",
+    "keywords": [
+      "Smoked Duck Breast",
+      "烟熏鸭胸"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "芝士鸡肉香肠【1KG】",
+    "keywords": [
+      "Chicken Cheese Cocktail Sausage",
+      "芝士鸡肉香肠"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "台湾香肠【500G】",
+    "keywords": [
+      "Taiwan Sausage",
+      "台湾香肠"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "小台湾香肠【500G】",
+    "keywords": [
+      "Taiwan Pork Cocktail",
+      "小台湾香肠"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "炸鸡排",
+    "keywords": [
+      "Katsu Chicken",
+      "炸鸡排"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "鹌鹑",
+    "keywords": [
+      "Quail",
+      "鹌鹑"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "馒头【640G】",
+    "keywords": [
+      "Steamed Bun",
+      "Man Tou",
+      "馒头"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "脆皮奶卷【430G】",
+    "keywords": [
+      "Crispy Milk Roll"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "羊蝎子【1KG】",
+    "keywords": [
+      "Lamb Spine",
+      "羊蝎子"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "孜然羊肉串【250G】",
+    "keywords": [
+      "Cumin Lamb Skewer"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "孜然牛肉串【250G】",
+    "keywords": [
+      "Cumin Beef Skewer"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "蟹肉棒【250G】",
+    "keywords": [
+      "Crab Meat Stick"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "嫩滑鸡胸肉【300G】",
+    "keywords": [
+      "Brasil Tender Chicken Breast"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "冷冻无骨鸡肉丁【300G】",
+    "keywords": [
+      "Frozen Boneless Chicken Cubes"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "毛豆荚【500G x3】",
+    "keywords": [
+      "Edamame",
+      "毛豆"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "牛金钱腱【1KG】",
+    "keywords": [
+      "Boneless Beef Golden Coin",
+      "牛金钱腱"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "素三层肉【500G】",
+    "keywords": [
+      "Vegetarian Layer Meat",
+      "素三层肉"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "熟猪肚【1KG】",
+    "keywords": [
+      "Pork Stomach",
+      "猪肚"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "豆沙粽子【3pcs】",
+    "keywords": [
+      "Red Bean Paste Rice Dumpling",
+      "豆沙粽"
+    ],
+    "factor": 1
+  },
+  {
+    "sku": "咸蛋黄猪肉粽子【3pcs】",
+    "keywords": [
+      "Salted Egg Yolk",
+      "咸蛋黄猪肉粽"
+    ],
+    "factor": 1
+  }
+]
